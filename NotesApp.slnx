@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NotesApp.API/NotesApp.API.csproj" />
+    <Project Path="src/NotesApp.Client/NotesApp.Client.csproj" />
+  </Folder>
+</Solution>
